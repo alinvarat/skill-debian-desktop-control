@@ -1,6 +1,6 @@
 ---
 name: debian-desktop-control
-description: Capture screenshots or control the local Debian GNOME Wayland desktop. Use for explicit screen, mouse or keyboard requests.
+description: Capture screenshots or control the local Debian GNOME Wayland desktop, including apps or the user's own Chrome window visible on screen. Use for explicit screen, mouse or keyboard requests.
 ---
 
 # Debian desktop control
